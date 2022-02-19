@@ -4,9 +4,9 @@ AP news(Associated Press News) 美联社新闻
 
 ### Tips
 
-> When you're speaking in English, say it like a human, 
->
-> which means putting yourself in the situation and adding some body language. 
+**When you're speaking in English, say it like a human,** 
+
+**which means putting yourself in the situation and adding some body language.** 
 
 ### Day1
 
@@ -19,14 +19,17 @@ AP news(Associated Press News) 美联社新闻
    - usually we should use past tense, "died"
    - but in AP history, when they tell you the history, it's like going back in time. So it seems like you're living at that point.
 
-#### Read
+#### Rule
 
 1. connect sound
 
    - received a == receiveda
-
    - work on  == workon
    - behalf of  == behalfof
+
+#### Read
+
+> *Mother Teresa, who **received+a** Noble Peace Prize for her **work+on** **behalf+of** the poor, **dies+in** Calcutta India. She was 87 years old.*
 
 
 
@@ -38,7 +41,9 @@ AP news(Associated Press News) 美联社新闻
 
 #### Grammer
 
-#### Read
+1. I have 5 o'clock. (五点了)
+
+#### Rule
 
 1. connect sound
    - what time == whatime 
@@ -55,9 +60,17 @@ AP news(Associated Press News) 美联社新闻
    - do you have
      - say it fast, sounds like 'du - ave'
 
+#### Read
+
+> *Jerry, **wha(t)+time** **do-you-(h)ave**?*
+>
+> *I **(h)ave** 5 o'clock.*
+
+
+
 ### Day 3
 
-> There are three things  I have learned never to discusss with people, religion, politics and the great pumpkins.
+> There are three things I have learned never to discusss with people, religion, politics and the great pumpkins.
 
 #### Grammer
 
@@ -65,27 +78,26 @@ AP news(Associated Press News) 美联社新闻
 2. politics 政治
 3. the Great Pumpkin: 南瓜大王
 
-#### Read
+#### Rule
 
 1. connect read
 
    - there are == sound like 'there - ra'
    - discuss with == discuss-with
-
 2. cancel sound
 
    - I have == 'I ave'
-
 3. emphsised sound
 
    - never： say it powerfully
-
 4. **to**
-
    - usually like 't' or 'd', when say it quickly. 
    - here, read as 't' is the most convinient. 
-
    
+
+#### Read
+
+> ***There-ra** three things **I (h)ave** learned **never** **t(o)** **discusss-with** people, religion, politics and the great pumpkins.*
 
 ### Day 4
 
@@ -95,7 +107,7 @@ AP news(Associated Press News) 美联社新闻
 
 1. in fact, in 'not' sentence, 'anybody' should be used, rather than 'somebody'.(just ignore here).
 
-#### Read
+#### Rule
 
 1. connect read
 
@@ -118,7 +130,11 @@ AP news(Associated Press News) 美联社新闻
    - let == le(t)
    - something == sump'n 
 
+#### Read
 
+> ***Don('t)** ever **le(t)** somebody tell you, you can**('t)** do **sump'n** .* 
+
+ 
 
 ### Day 5
 
@@ -131,7 +147,7 @@ AP news(Associated Press News) 美联社新闻
 3. I have zero bubblegum. So why is he here? To kick ass.
    - when used in an exam, it means to do really good job on the test. 
 
-#### Read
+#### Rule
 
 1. connect read
    - and == an
@@ -142,6 +158,10 @@ AP news(Associated Press News) 美联社新闻
    - usually like 't' or 'd', when say it quickly. 
    - here, read as 'd' is the most convinient. 
 
+#### Read
+
+> *I **(h)ave** come here **d(to)** chew bubblegum **an(d)** **kick+ass** **an(d)** I'm all **outta** bubblegum.* 
+
 
 
 ### Day 6
@@ -150,23 +170,25 @@ AP news(Associated Press News) 美联社新闻
 
 #### Grammer
 
-#### Read
+#### Rule
 
 1. connect read
 
    - secret of == secretof 
-
 2. cancel read
 
    - just == juss 
-
 3. to
 
    - usually like 't' or 'd', when say it quickly. 
-
    - here, read as 't' is the most convinient. 
-
    
+
+#### Read
+
+> *The **secret+of** life is **juss(t)** **t(o)** live every moment.* 
+
+
 
 ### Day 7
 
@@ -179,13 +201,46 @@ AP news(Associated Press News) 美联社新闻
 3. cost: smoke cost your life. 
    - the rogue paid billions to bank. (Banks donot pay money, instead they earn money) 
 
-#### Read
+#### Rule
 
 1. connect read
    - another rogue == anothe-rogue
    - cost a == costa  
 2. cancel read
 
+#### Read
+
+> ***Anothe(r)+rogue** trader has **cost+a** bank billions.* 
+
 
 
 ### Summary
+
+1. if there is /d, t, th/ , next to /s, n, and L/, many times the weak sound is canceled. 
+
+- strong sound: S, N, L
+- weak sound: d, t, th
+- for example
+  - you and I == you an(d) I 
+    - The /n/ cancels the /d/
+  - international == in(t)ernational
+    - The /n/ kills the /t/
+  - Don't ever == Don('t) ever
+  - can't == can('t) (can, then a stop, )
+    - "can" and "can't" can be distinguished by the emphasis and the sentence's mean.
+
+2. just == juss  
+
+3. **to**
+   - usually like 't' or 'd', when say it quickly. 
+   - Read it in the most convinient. 
+
+4. have
+   - Pronunciation rules: 7Hs
+     - he, her, him, his, have, has and had
+     - when American speak fast,  the /h/ is cancelld. we cannot hear the /h/ sound.
+   - do you have
+     - say it fast, sounds like 'du - ave'
+   - I have == 'I ave'
+5. there are == sound like 'there - ra'
+6. out of == outta 
