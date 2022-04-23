@@ -71,11 +71,79 @@
 
 ### Day17
 
-> 
+> A few years ago they were thought to be useless---past their prime---not now. 
 
 #### Grammer
 
+1. in your prime: the best and most productive years of your life
 
+#### Rule
+
+#### Read
+
+> A few years ago they were thought to be useless---pas(t)+their prime---not now. 
+
+
+
+### Day18
+
+> If you are breathing, it is not too late. Get up and get going.
+
+#### Grammer
+
+#### Rule
+
+- "it is", emphasis when don't connect 
+- get up == getup
+
+- and get == an(d) + get
+
+#### Read
+
+> If you are breathing, it is not too late. Get+up an(d) get going.
+
+
+
+### Day19
+
+> A 67-year-old grandpa, has been found alive after being stuck for 6 days at the bottom of a ravine.
+
+#### Grammer
+
+- stuck:
+  - You are stuck in meetings in Monday.
+  - You are stuck in heavy rain.
+
+- ravine: a place between two mountain.沟壑
+
+#### Rule
+
+- 67-year-old: seven-year==> "y" is cancelled. 
+- grandpa == gran(d)pa
+- been, sounds like "ben" in American English
+
+- for, read quickly, sound like "fur"
+
+- at the bottom of a == at+(t)he+bottom+of+a
+
+#### Read
+
+> A 67+(y)ear-old gran(d)pa, has be(e)n found+alive after being stuck for(fur) 6 days at+(t)he bottom+of+a ravine.
+
+
+
+### Day20
+
+> Saturday,  an ultrailight plane crashed the Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
+
+#### Grammer
+
+- ultrailight plane, very small plane
+
+- Ferris wheel
+- a rural festival
+
+- amusement ride
 
 #### Rule
 
@@ -84,4 +152,6 @@
 #### Read
 
 > 
+
+
 
