@@ -134,24 +134,42 @@
 
 ### Day20
 
-> Saturday,  an ultrailight plane crashed the Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
+> Saturday,  an ultrailight plane crashed into a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
 
 #### Grammer
 
-- ultrailight plane, very small plane
+- ultrailight plane: very small plane
+- Ferris wheel: 🎡
+- rural: the opposite of urban(with big downtown and party)
+- somehow: means like magically
+- amusement ride: no one on the Ferris wheel
+- nor: also
 
-- Ferris wheel
-- a rural festival
-
-- amusement ride
-
-#### Rule
-
- 
+#### Rule 
 
 #### Read
 
-> 
+
+
+### Day21
+
+> Heidi won the world over with her forever cute cross-eyes but slightly confused look.
+
+#### Grammer
+
+- won the world over: I won the world over my English lessons. 
+  - Heidi won the world over with her cute look.
+
+
+#### Rule
+
+- won sounds like 'one', so you have to know the expression(won the world over)
+- with her == with+(h)er, 'h' is cancelled
+- confused look == confuse(d)+look, 'd' is cancelled
+
+#### Read
+
+> Heidi won the world over with+(h)er forever cute cross-eyes but slightly confuse(d)+look.
 
 
 
