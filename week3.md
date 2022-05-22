@@ -1,48 +1,5 @@
 ## Week3
 
-### Day15
-
-> Sponge Bob
->
-> The frantic pacing -- scence changes every 11 seconds on average, often leaves Kids zoned out and spun up unable to concentrate.
-
-#### Grammer
-
-1. frantic: means loss of control, uncontrollable fast.(crazy)
-
-   I have a frantic day. (very crazy and busy day)
-
-2. pacing: means speed
-
-3. zone out: means lost concentration(mind is gone)
-
-4. spun up: means wound up, you spin out of control, you become crazy.
-
-   You should emphasize the "up", like clean up(completedly clean, shut up(do not say anything). 
-
-#### Rule
-
-1. connect sound (**Whenever we have no consonant, we need to connect**)
-
-   - changes every 11 seconds on average
-     - changes+every+11 seconds+on+average
-     - ***on***, in USA, most American pronounce it: [a:n]
-
-   - zoned out == zonedout
-   - spun up == spunup  
-
-    
-
-2. cancel sound
-
-  - unable to = unable+d(to)
-
-#### Read
-
-> The frantic pacing -- scence+changes+every+11+seconds+onav+erage, often leaves Kids zoned+out an(d) spun+up unable+d concentrate.
-
-
-
 ### Day16
 
 > Battered, soaked and flooded; the Philippines is being hit by its second typhoon in a week.
@@ -63,12 +20,6 @@
      - secon(d)+typhoon
      - typhoon+in+a
 
-#### Read
-
-> Battered, soak(ed)t and flood(ed); the Philippine is being hit by secon(d)+typhoon+in+a week.
-
-
-
 ### Day17
 
 > A few years ago they were thought to be useless---past their prime---not now. 
@@ -77,11 +28,7 @@
 
 1. in your prime: the best and most productive years of your life
 
-#### Rule
 
-#### Read
-
-> A few years ago they were thought to be useless---pas(t)+their prime---not now. 
 
 
 
@@ -97,12 +44,6 @@
 - get up == getup
 
 - and get == an(d) + get
-
-#### Read
-
-> If you are breathing, it is not too late. Get+up an(d) get going.
-
-
 
 ### Day19
 
@@ -126,12 +67,6 @@
 
 - at the bottom of a == at+(t)he+bottom+of+a
 
-#### Read
-
-> A 67+(y)ear-old gran(d)pa, has be(e)n found+alive after being stuck for(fur) 6 days at+(t)he bottom+of+a ravine.
-
-
-
 ### Day20
 
 > Saturday,  an ultrailight plane crashed into a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
@@ -146,8 +81,6 @@
 - nor: also
 
 #### Rule 
-
-#### Read
 
 
 
@@ -167,9 +100,20 @@
 - with her == with+(h)er, 'h' is cancelled
 - confused look == confuse(d)+look, 'd' is cancelled
 
-#### Read
-
-> Heidi won the world over with+(h)er forever cute cross-eyes but slightly confuse(d)+look.
 
 
+### Day22
 
+> The project to put them online is expected to be completed by 2016.
+
+#### Grammer
+
+- expected: anticipated, means thought to be
+
+**Rule**
+
+- 2016: usually read as twenty-sixteen.(two thousand sixteen is ok)
+- 2001: usually read as two hundred and one
+- 716: seven-sixteen
+
+### 

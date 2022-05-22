@@ -27,10 +27,6 @@ AP news(Associated Press News) 美联社新闻
    - work on  == workon
    - behalf of  == behalfof
 
-#### Read
-
-> *Mother Teresa, who **received+a** Noble Peace Prize for her **work+on** **behalf+of** the poor, **dies+in** Calcutta India. She was 87 years old.*
-
 
 
 ### Day 2
@@ -60,14 +56,6 @@ AP news(Associated Press News) 美联社新闻
    - do you have
      - say it fast, sounds like 'du - ave'
 
-#### Read
-
-> *Jerry, **wha(t)+time** **do-you-(h)ave**?*
->
-> *I **(h)ave** 5 o'clock.*
-
-
-
 ### Day 3
 
 > There are three things I have learned never to discusss with people, religion, politics and the great pumpkins.
@@ -94,10 +82,6 @@ AP news(Associated Press News) 美联社新闻
    - usually like 't' or 'd', when say it quickly. 
    - here, read as 't' is the most convinient. 
    
-
-#### Read
-
-> ***There-ra** three things **I (h)ave** learned **never** **t(o)** **discusss-with** people, religion, politics and the great pumpkins.*
 
 ### Day 4
 
@@ -130,12 +114,6 @@ AP news(Associated Press News) 美联社新闻
    - let == le(t)
    - something == sump'n 
 
-#### Read
-
-> ***Don('t)** ever **le(t)** somebody tell you, you can**('t)** do **sump'n** .* 
-
- 
-
 ### Day 5
 
 > I have come here to chew bubblegum and kick ass and I'm all out of bubblegum. 
@@ -158,12 +136,6 @@ AP news(Associated Press News) 美联社新闻
    - usually like 't' or 'd', when say it quickly. 
    - here, read as 'd' is the most convinient. 
 
-#### Read
-
-> *I **(h)ave** come here **d(to)** chew bubblegum **an(d)** **kick+ass** **an(d)** I'm all **outta** bubblegum.* 
-
-
-
 ### Day 6
 
 > The secret of life is just to live every moment. 
@@ -184,12 +156,6 @@ AP news(Associated Press News) 美联社新闻
    - here, read as 't' is the most convinient. 
    
 
-#### Read
-
-> *The **secret+of** life is **juss(t)** **t(o)** live every moment.* 
-
-
-
 ### Day 7
 
 > Another rogue trader has cost a bank billions. 
@@ -207,12 +173,6 @@ AP news(Associated Press News) 美联社新闻
    - another rogue == anothe-rogue
    - cost a == costa  
 2. cancel read
-
-#### Read
-
-> ***Anothe(r)+rogue** trader has **cost+a** bank billions.* 
-
-
 
 ### Summary
 
