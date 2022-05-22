@@ -29,10 +29,6 @@
    - hit
      - /t/ can be canceled
 
-#### Read
-
-> A satelli(te)+that carri(ed) t(o) space aboar(d) the shuttle Discovery 20 years ago, is abou(t) t(o) fall to Earth, but nobody knows where the debris will hi(t).
-
 ### Day 10
 
 > It's a lofty, probably impossible goal. 
@@ -48,12 +44,6 @@
 2. cancel sound
    - It's == Is
      - /s/ sound cancels the /t/ sound.
-
-#### Read
-
-> I(t)'s+a lofty, probably impossible goal. 
-
-
 
 ### Day 11
 
@@ -75,12 +65,6 @@
    - identical == iden(t)ical
      - /n/ sound cancels the sound /t/
 
-#### Read
-
-> New York swep(t)+the Tampa Bay Rays by iden(t)ical 4-2 scores in+a day-night doubleheader Wednesday.
-
-
-
 ### Day 12
 
 > Jim Henson, creator of The Muppets, from Kermit the Frog to Sesame Street -- is born in Greenville Mississippi.
@@ -97,12 +81,6 @@
    - born in == born+in
 2. cancel sound
    - creator of the == creator o(f) + the
-
-#### Read
-
-> Jim Henson, creator o(f)+The Muppets, from Kermit the Frog to Sesame Street -- is born+in Greenville Mississippi.
-
-
 
 ### Day13
 
@@ -124,12 +102,6 @@
      - /n/ cancels /t/
    - past == pas
      - /s/ cancels /t/
-
-#### Read
-
-> Asian tiger mosquitos are native d(to) the tropics of Southeast Asia. But+in+nuh(the) pas(t) few years, they've spread+all+across southeastern the United States.
-
-
 
 ### Day14
 
@@ -153,7 +125,41 @@
      - /l/ cancels the /t/
    - one of them == one o(f) them
 
-#### Read
+### Day15
 
-> Cats reputedly have 9 lives and he clearly wan(t)ed to spend a(t) least one o(f) them here in New York city.
+> Sponge Bob
+>
+> The frantic pacing -- scence changes every 11 seconds on average, often leaves Kids zoned out and spun up unable to concentrate.
 
+#### Grammer
+
+1. frantic: means loss of control, uncontrollable fast.(crazy)
+
+   I have a frantic day. (very crazy and busy day)
+
+2. pacing: means speed
+
+3. zone out: means lost concentration(mind is gone)
+
+4. spun up: means wound up, you spin out of control, you become crazy.
+
+   You should emphasize the "up", like clean up(completedly clean, shut up(do not say anything). 
+
+#### Rule
+
+1. connect sound (**Whenever we have no consonant, we need to connect**)
+
+   - changes every 11 seconds on average
+     - changes+every+11 seconds+on+average
+     - ***on***, in USA, most American pronounce it: [a:n]
+
+   - zoned out == zonedout
+   - spun up == spunup  
+
+    
+
+2. cancel sound
+
+   - unable to = unable+d(to)
+
+### 
