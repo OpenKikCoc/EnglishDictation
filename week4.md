@@ -67,17 +67,69 @@
    - searched for == search(ed)+for, /f/ cancel the 'ed'
    - throughout the == throughout+(t)he 
 
+
+
 ### Day26
 
-> 
+>  It's the kind of thing you look work forward to instead of, you know, some workouts you dread and you think of it as work and this is just fun. 
 
 #### Grammer
 
-- 
+- dread: anticipate with great apprehension or fear, not look forward to. I dread waking up early.
 
 #### **Rule**
 
 1. connect sound 
-   - 
+   - and you == and+you
+   - think of it as == think+of+it+as
 2. cancel sound
-   - 
+   - It's the == I(t')s+(th)e
+   - kind of thing = kind+o(f)+thing, /f/ is canceld by /t/
+   - workouts == workou(t)s
+
+
+
+### Day27
+
+> Superhero costumes, as usual, are big this year, espeacilly from the recent movies, like Thor and the Green Lantern.
+
+#### Grammer
+
+- costumes: clothes
+- are big: are popular/important. I have a big meeting.
+
+#### **Rule**
+
+1. cancel sound
+   - recent movies == recen(t) movies
+
+
+
+### Day28
+
+> It's a pain cuz my fridge is.. I dumped it  today, and then food's gone.
+
+#### Grammer
+
+- fridge: refrigerator
+- dumped: throw it away
+
+#### **Rule**
+
+1. connect sound 
+   - and then == en-na
+2. cancel sound
+   - It's == I(t)s, /t/ canceled by /s/
+   - today == t'day 
+
+
+
+### Day29
+
+> He says he was simply going by the book when it comes to landing without gear, and that he and his fellow pilots train for these type of incidents. 
+
+#### Grammer
+
+- going by the book: to follow the written on the book, as we study in book.
+- gear: landing gear means wheel
+
